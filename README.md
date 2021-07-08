@@ -2,4 +2,3 @@
 <p align="center">
 <a href="https://github.com/phonix007">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phonix007&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phonix007)](https://github.com/phonix007/github-readme-stats)
